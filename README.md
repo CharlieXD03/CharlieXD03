@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am a second year Physics student at the University of Bath
+I have beginner Python knowledge 
 
 <!--
 **CharlieXD03/CharlieXD03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
